@@ -1,10 +1,9 @@
 # computer-vision-tasks
-Performing fundamental computer vision tasks using CNNs (work in progress).
-
-The notebooks in this repository implement CNNs to perform image based tasks.
+Performing fundamental computer vision tasks.
 
 ## Content
 
-1. Image Classification on the CIFAR-10 dataset
-2. Image segmentation on the OxfordIII Pets dataset
+1. Image Classification on the CIFAR-10 dataset using CNN
+2. Image Segmentation on the OxfordIII Pets dataset using CNN (work in progress)
+3. Real time Object Detection using OpenCV
 
